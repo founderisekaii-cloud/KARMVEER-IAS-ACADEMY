@@ -1,3 +1,82 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Students studying in a classroom",
+      "imageUrl": "https://images.unsplash.com/photo-1654366698665-e6d611a9aaa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdHVkZW50cyUyMGNsYXNzcm9vbXxlbnwwfHx8fDE3NjI1MjYyOTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "students classroom"
+    },
+    {
+      "id": "course-upsc",
+      "description": "UPSC exam preparation material",
+      "imageUrl": "https://images.unsplash.com/photo-1558533761-03a7657e0cdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxib29rcyUyMGdvdmVybm1lbnR8ZW58MHx8fHwxNzYyNTQwMTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "books government"
+    },
+    {
+      "id": "course-mpsc",
+      "description": "MPSC exam preparation material",
+      "imageUrl": "https://images.unsplash.com/photo-1718327453695-4d32b94c90a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsaWJyYXJ5JTIwc3R1ZHl8ZW58MHx8fHwxNzYyNDIzMDI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "library study"
+    },
+    {
+      "id": "course-ssc",
+      "description": "SSC exam preparation material",
+      "imageUrl": "https://images.unsplash.com/photo-1606326608690-4e0281b1e588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxleGFtJTIwcGFwZXJ8ZW58MHx8fHwxNzYyNTMxMDgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "exam paper"
+    },
+    {
+      "id": "course-banking",
+      "description": "Banking exam preparation material",
+      "imageUrl": "https://images.unsplash.com/photo-1478186014654-5a7e3898daa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxiYW5rJTIwYnVpbGRpbmd8ZW58MHx8fHwxNzYyNTQwMTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bank building"
+    },
+    {
+      "id": "course-railway",
+      "description": "Railway exam preparation material",
+      "imageUrl": "https://images.unsplash.com/photo-1523697753094-d89aa5119fc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0cmFpbiUyMHN0YXRpb258ZW58MHx8fHwxNzYyNDQxMDM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "train station"
+    },
+    {
+      "id": "course-defence",
+      "description": "Defence services exam preparation",
+      "imageUrl": "https://images.unsplash.com/photo-1561052708-6c0baace810b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtaWxpdGFyeSUyMHBhcmFkZXxlbnwwfHx8fDE3NjI1NDAxMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "military parade"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Portrait of a happy student",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0NzE2NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Portrait of a successful candidate",
+      "imageUrl": "https://images.unsplash.com/photo-1623605931891-d5b95ee98459?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc2MjUzMzQ0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Portrait of another student",
+      "imageUrl": "https://images.unsplash.com/photo-1725622428670-40a7e9add82f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkZW50JTIwcHJvZmVzc2lvbmFsfGVufDB8fHx8MTc2MjU0MDEzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student professional"
+    },
+    {
+      "id": "faculty-1",
+      "description": "Portrait of a faculty member",
+      "imageUrl": "https://images.unsplash.com/photo-1574281570877-bd815ebb50a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0ZWFjaGVyJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDg3MTkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "faculty-2",
+      "description": "Portrait of another faculty member",
+      "imageUrl": "https://images.unsplash.com/photo-1758685848226-eedca8f6bce7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcm9mZXNzb3IlMjBwcm9mZXNzaW9uYWx8ZW58MHx8fHwxNzYyNTQwMTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professor professional"
+    },
+    {
+      "id": "faculty-3",
+      "description": "Portrait of a senior faculty",
+      "imageUrl": "https://images.unsplash.com/photo-1646369505413-216676fef89c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsZWN0dXJlciUyMHNtaWxpbmd8ZW58MHx8fHwxNzYyNTQwMTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lecturer smiling"
+    }
+  ]
 }
