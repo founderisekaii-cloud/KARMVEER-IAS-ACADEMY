@@ -8,7 +8,6 @@ const navLinks = [
   { href: '/courses', label: 'Courses' },
   { href: '/admissions', label: 'Admissions' },
   { href: '/results', label: 'Results' },
-  // { href: '/study-plan', label: 'AI Study Plan' },
   { href: '/about', label: 'About Us' },
   { href: '/contact', label: 'Contact' },
 ];

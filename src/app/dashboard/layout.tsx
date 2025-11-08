@@ -29,7 +29,7 @@ const navItems = [
   { href: '/dashboard/courses', label: 'Courses', icon: BookCopy },
   { href: '/dashboard/students', label: 'Students', icon: Users },
   { href: '/dashboard/results', label: 'Results', icon: Award },
-  // { href: '/dashboard/ai-tools', label: 'AI Tools', icon: BotMessageSquare },
+  { href: '/dashboard/ai-tools', label: 'AI Tools', icon: BotMessageSquare },
   { href: '/dashboard/settings', label: 'Settings', icon: Settings },
 ];
 
