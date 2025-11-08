@@ -18,7 +18,7 @@ export default function Header() {
       <div className="container flex h-16 items-center">
         <Link href="/" className="mr-6 flex items-center space-x-2">
           <GraduationCap className="h-8 w-8 text-primary" />
-          <span className="font-bold text-lg font-headline">KARMVEER IAS ACADEMY</span>
+          <span className="font-bold text-lg font-headline">KARMVEER IAS INSTITUTE</span>
         </Link>
         <nav className="hidden md:flex items-center space-x-6 text-sm font-medium">
           {navLinks.map((link) => (
@@ -49,7 +49,7 @@ export default function Header() {
                   className="flex items-center gap-2 text-lg font-semibold"
                 >
                   <GraduationCap className="h-6 w-6 text-primary" />
-                  <span className="sr-only">Karmveer IAS Academy</span>
+                  <span className="sr-only">Karmveer IAS Institute</span>
                 </Link>
                 {navLinks.map((link) => (
                   <Link
