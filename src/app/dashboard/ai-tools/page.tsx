@@ -6,17 +6,10 @@ import { StudyPlanForm } from "@/components/ai/study-plan-form";
 import { ExamSummaryForm } from "@/components/ai/exam-summary-form";
 import { BotMessageSquare, Newspaper, AlertTriangle } from "lucide-react";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
-import { useEffect, useState } from "react";
+
+const isProduction = process.env.NODE_ENV === 'production';
 
 export default function AiToolsPage() {
-  const [isProduction, setIsProduction] = useState(false);
-
-  useEffect(() => {
-    // This check ensures the code only runs on the client-side
-    // and correctly identifies if it's in a production build.
-    setIsProduction(process.env.NODE_ENV === 'production');
-  }, []);
-
   if (isProduction) {
     return (
       <Alert variant="destructive">
