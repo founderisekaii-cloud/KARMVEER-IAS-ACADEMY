@@ -46,15 +46,15 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start">
                 <MapPin className="h-4 w-4 mr-2 mt-1 shrink-0"/>
-                <span className="text-muted-foreground">123 Education Lane, Knowledge Park, New Delhi, India</span>
+                <span className="text-muted-foreground">Near Hanuman Mandir, Patlipada, G.B. Road, Thane</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-4 w-4 mr-2"/>
-                <a href="mailto:info@karmveeracademy.com" className="text-muted-foreground hover:text-primary">info@karmveeracademy.com</a>
+                <a href="mailto:karmaveeriasinstitute@gmail.com" className="text-muted-foreground hover:text-primary">karmaveeriasinstitute@gmail.com</a>
               </li>
               <li className="flex items-center">
                 <Phone className="h-4 w-4 mr-2"/>
-                <a href="tel:+911234567890" className="text-muted-foreground hover:text-primary">+91 12345 67890</a>
+                <a href="tel:9136958719" className="text-muted-foreground hover:text-primary">9136958719</a>
               </li>
             </ul>
           </div>

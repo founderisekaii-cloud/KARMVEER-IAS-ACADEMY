@@ -12,15 +12,15 @@ export default function ContactPage() {
         <div className="max-w-sm mx-auto mt-10 space-y-4">
             <div className="flex items-start">
                 <MapPin className="h-5 w-5 mr-3 mt-1 shrink-0 text-primary"/>
-                <span>123 Education Lane, Knowledge Park, New Delhi, India</span>
+                <span>Near Hanuman Mandir, Patlipada, G.B. Road, Thane</span>
             </div>
              <div className="flex items-center">
                 <Mail className="h-5 w-5 mr-3 text-primary"/>
-                <a href="mailto:info@karmveeracademy.com" className="hover:text-primary">info@karmveeracademy.com</a>
+                <a href="mailto:karmaveeriasinstitute@gmail.com" className="hover:text-primary">karmaveeriasinstitute@gmail.com</a>
             </div>
             <div className="flex items-center">
                 <Phone className="h-5 w-5 mr-3 text-primary"/>
-                <a href="tel:+911234567890" className="hover:text-primary">+91 12345 67890</a>
+                <a href="tel:9136958719" className="hover:text-primary">9136958719</a>
             </div>
         </div>
       </div>
