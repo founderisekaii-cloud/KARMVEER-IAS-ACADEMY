@@ -4,9 +4,9 @@ import { Toaster } from '@/components/ui/toaster';
 import { cn } from '@/lib/utils';
 
 export const metadata: Metadata = {
-  title: 'Karmveer IAS Institute - Your Path to Government Service',
+  title: 'Karmaveer IAS Institute - Your Path to Government Service',
   description:
-    'Join Karmveer IAS Institute to prepare for UPSC, MPSC, SSC, Banking, Railway, Defence, and State PSC exams. Your path to government service begins here.',
+    'Join Karmaveer IAS Institute to prepare for UPSC, MPSC, SSC, Banking, Railway, Defence, and State PSC exams. Your path to government service begins here.',
 };
 
 export default function RootLayout({

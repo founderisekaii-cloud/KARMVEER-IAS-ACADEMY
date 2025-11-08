@@ -37,7 +37,7 @@ export default function Home() {
         <section className="relative h-[80vh] min-h-[600px] w-full">
           <Image
             src={getPlaceholderImage('hero-bg')?.imageUrl || ''}
-            alt="Students studying at Karmveer IAS Institute"
+            alt="Students studying at Karmaveer IAS Institute"
             data-ai-hint="students studying"
             fill
             className="object-cover"
@@ -49,7 +49,7 @@ export default function Home() {
               Your Path to Government Service Begins Here.
             </h1>
             <p className="mt-4 max-w-2xl text-lg md:text-xl text-gray-200">
-              Join Karmveer IAS Institute to excel in UPSC, MPSC, SSC, and other government exams with our experienced faculty and proven track record.
+              Join Karmaveer IAS Institute to excel in UPSC, MPSC, SSC, and other government exams with our experienced faculty and proven track record.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
               <Button asChild size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground font-bold text-lg px-8 py-6">

@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="space-y-4">
             <Link href="/" className="flex items-center space-x-2">
               <GraduationCap className="h-8 w-8 text-primary" />
-              <span className="text-xl font-bold font-headline">KARMVEER IAS INSTITUTE</span>
+              <span className="text-xl font-bold font-headline">KARMAVEER IAS INSTITUTE</span>
             </Link>
             <p className="text-sm text-muted-foreground">Your Path to Government Service Begins Here.</p>
             <div className="flex space-x-4">
@@ -61,7 +61,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t flex flex-col md:flex-row justify-between items-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Karmveer IAS Institute. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Karmaveer IAS Institute. All Rights Reserved.</p>
           <div className="flex space-x-4 mt-4 md:mt-0">
             <Link href="/privacy" className="hover:text-primary">Privacy Policy</Link>
             <Link href="/terms" className="hover:text-primary">Terms & Conditions</Link>
