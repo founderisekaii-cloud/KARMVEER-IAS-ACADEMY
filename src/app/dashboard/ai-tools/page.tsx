@@ -4,24 +4,9 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { StudyPlanForm } from "@/components/ai/study-plan-form";
 import { ExamSummaryForm } from "@/components/ai/exam-summary-form";
-import { BotMessageSquare, Newspaper, AlertTriangle } from "lucide-react";
-import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
-
-const isProduction = process.env.NODE_ENV === 'production';
+import { BotMessageSquare, Newspaper } from "lucide-react";
 
 export default function AiToolsPage() {
-  if (isProduction) {
-    return (
-      <Alert variant="destructive">
-        <AlertTriangle className="h-4 w-4" />
-        <AlertTitle>Feature Unavailable</AlertTitle>
-        <AlertDescription>
-          The AI-powered tools are not available in the statically exported version of this application. They require a server environment to function.
-        </AlertDescription>
-      </Alert>
-    );
-  }
-
   return (
     <Tabs defaultValue="study-plan" className="w-full">
       <TabsList className="grid w-full grid-cols-2">
